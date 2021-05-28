@@ -1,6 +1,6 @@
 {
   "name": "@jswork/filter-react-props",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get filterd react props.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -38,5 +38,10 @@
   },
   "dependencies": {
     "filter-react-props": "0.0.4"
-  }
+  },
+  "keywords": [
+    "filter",
+    "react",
+    "props"
+  ]
 }
