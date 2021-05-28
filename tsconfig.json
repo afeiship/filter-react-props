@@ -7,7 +7,7 @@
     "outDir": "dist",
     "declaration": true,
     "pretty": true,
-    "esModuleInterop": true,
+    "esModuleInterop": false,
     "skipDefaultLibCheck": true,
     "noImplicitAny": false
   }
